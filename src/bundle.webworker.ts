@@ -4,7 +4,8 @@
 import { DOMAdapter } from './environment/adapter';
 import { WebWorkerAdapter } from './environment-webworker/WebWorkerAdapter';
 import './environment-webworker/webworkerAll';
-
+iffhfbb
+implements
 export * from './app';
 export * from './assets';
 export * from './color';
